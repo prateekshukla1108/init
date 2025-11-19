@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Chief of Staff",
+  "description": "A Clean Architecture based personal assistant using Gemini Flash Lite with a focus on modular domain/data/ui separation.",
+  "requestFramePermissions": []
+}
